@@ -2,3 +2,15 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  color: blue;
+  border: 1px solid black;
+  background-image: url("../assets/wyncode_logo.jpeg")
+}
+
+.lead {
+  color: red;
+  font-weight: 400;
+
+}
